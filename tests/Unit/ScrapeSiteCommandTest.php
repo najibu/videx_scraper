@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests\Feature;
+namespace Tests\Unit;
 
 use App\Builders\PackageBuilder;
 use App\Console\Commands\ScrapeSite;

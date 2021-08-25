@@ -28,3 +28,6 @@ php artisan scrape:site videx
 ```bash
 php artisan test
 ```
+
+### PR Changes
+https://github.com/najibu/videx_scraper/pull/1/files
